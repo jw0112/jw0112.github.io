@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "contrast" # "default",  "air", "aqua", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Do Yourself a Favor"
+title                    : "No sweat, No sweet"
 title_separator          : "|"
-subtitle                 : "No sweat, No sweet"
+subtitle                 : "Do Yourself a Favor"
 name                     : "Lee Jinwon"
 description              : "Hi There !"
 url                      : "https://jw0112.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/four_leaf_clover.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -112,15 +112,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lee Jinwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "M.S. of Data Science, UOS"
+  location         : "Paju, Republic of Korea"
+  email            : "jw0112@uos.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jw0112@uos.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jw0112"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
